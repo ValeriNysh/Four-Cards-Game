@@ -1,0 +1,18 @@
+<resources>
+    // Labels
+    <string name="app_name">Four Cards</string>
+    <string name="lbl_start">Start a new game</string>
+    <string name="lbl_playerName">player name</string>
+    <string name="lbl_terms">I accept all terms and conditions</string>
+
+
+    // Buttons
+    <string name="btn_start">Start</string>
+
+
+    // Input Text
+    <string name="et_playerName"></string>
+    <string name="hint_name">Enter player name</string>
+
+
+</resources>
