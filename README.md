@@ -6,7 +6,9 @@ Welcome to my page !
 
 ##
 
-The "Master Mind" card game is currently in development.
+***"Master Mind"*** - a card game created in Android Studio using Kotlin programming language
+
+The game is currently in development.
 
 It's description and rules will be updated here as soon as the game is released.
 
