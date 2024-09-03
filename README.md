@@ -6,7 +6,7 @@ Welcome to my page !
 
 ##
 
-***"Master Mind"*** - a card game created in Android Studio using Kotlin programming language
+***"Master Mind"*** - is a card game created in Android Studio using Kotlin programming language.
 
 The game is currently in development.
 
